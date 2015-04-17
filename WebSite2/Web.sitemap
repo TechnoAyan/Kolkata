@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+
+  <siteMapNode>
+
+<siteMapNode url="" title="Home"  description="" />
+<siteMapNode url="" title="About Us"  description="" />
+<siteMapNode url="" title="Services"  description="">
+<siteMapNode url="" title="Website Development"  description="">
+<siteMapNode url="" title="Static Website"  description="" />
+<siteMapNode url="" title="Dynamic Website"  description="" />
+<siteMapNode url="" title="Flash Website" description="" />
+</siteMapNode>
+<siteMapNode url="" title="Sofware Development" description="" />
+</siteMapNode>
+<siteMapNode url="" title="Products"  description="" />
+<siteMapNode url="" title="Gallery"  description="" />
+<siteMapNode url="" title="Contact Us"  description="" />
+    
+  </siteMapNode>
+  
+  
+</siteMap>
